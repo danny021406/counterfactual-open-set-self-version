@@ -1,14 +1,13 @@
-git+http://github.com/lwneal/imutil
-git+http://github.com/lwneal/logutil
-numpy
-scipy
-torch
-torchvision
-Pillow
-requests
-tqdm
-sklearn
-matplotlib
-seaborn
-Cython
-libMR
+pip install git+http://github.com/lwneal/imutil
+pip install git+http://github.com/lwneal/logutil
+pip install numpy
+pip install scipy
+pip install torchvision
+pip install Pillow
+pip install requests
+pip install tqdm
+pip install sklearn
+pip install matplotlib
+pip install seaborn
+pip install Cython
+pip install libMR

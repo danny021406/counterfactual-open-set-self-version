@@ -16,9 +16,9 @@ fi
 if [ ! -f /mnt/data/oxford102.dataset ]; then
     python src/datasets/download_oxford102.py
 fi
-if [ ! -f /mnt/data/celeba.dataset ]; then
-    python src/datasets/download_celeba.py
-fi
+#if [ ! -f /mnt/data/celeba.dataset ]; then
+#    python src/datasets/download_celeba.py
+#fi
 if [ ! -f /mnt/data/cifar100-animals.dataset ]; then
     python src/datasets/download_cifar100.py
 fi
