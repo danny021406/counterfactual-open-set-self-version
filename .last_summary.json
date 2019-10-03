@@ -1,0 +1,8 @@
+{
+  "Discriminator Sampled": 0.9361913800239563,
+  "Discriminator Real": 0.005158994812518358,
+  "Gradient Penalty": 6.366553783416748,
+  "Generator Autoencoded": -0.0007855709991417825,
+  "Pixel Reconstruction Loss": 0.2769831717014313,
+  "Classifier Loss": 0.7550517916679382
+}

@@ -1,0 +1,14 @@
+
+Training GAN
+Collected 0.324 sec ending 07:20:40 AM, Thu Oct 03 2019
+Collected        1 points (3.08/sec)
+                            Name     Last 1000         Last 10
+                 Classifier Loss:        0.7551        0.7551 
+              Discriminator Real:        0.0052        0.0052 
+           Discriminator Sampled:        0.9362        0.9362 
+           Generator Autoencoded:       -0.0008       -0.0008 
+                Gradient Penalty:        6.3666        6.3666 
+       Pixel Reconstruction Loss:        0.2770        0.2770 
+Predictions:
+             Classifier Accuracy:	15.62% (10.0/64)
+
